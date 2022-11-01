@@ -1,0 +1,170 @@
+{
+    "__collections__": {
+        "series": {
+            "--summary": {
+                "popularity" : [
+                    {
+                        "id" : "93405",
+                        "title": "Squid Game",
+                        "poster_path": "https://image.tmdb.org/t/p/w342/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg"
+                    },
+                    {
+                        "id" : "81356",
+                        "title": "Sex Education",
+                        "poster_path": "https://image.tmdb.org/t/p/w342/8j12tohv1NBZNmpU93f47sAKBbw.jpg"
+                    },
+                    {
+                        "id" : "63174",
+                        "title": "Lucifer",
+                        "poster_path": "https://image.tmdb.org/t/p/w342/ekZobS8isE6mA53RAiGDG93hBxL.jpg"
+                    },
+                    {
+                        "id" : "134983",
+                        "title": "Medal of the Republic",
+                        "poster_path": "https://image.tmdb.org/t/p/w342/8ryjORff8eYT27T6gRFxaHzhGsU.jpg"
+                    },
+                    {
+                        "id" : "91363",
+                        "title": "What If...?",
+                        "poster_path": "https://image.tmdb.org/t/p/w342/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg"
+                    },
+                    {
+                        "id" : "133086",
+                        "title": "The Five Juanas",
+                        "poster_path": "https://image.tmdb.org/t/p/w342/iFffOCcrtf5mSoGKd2J31d2b5yg.jpg"
+                    },
+                    {
+                        "id" : "1991",
+                        "title": "Rachael Ray",
+                        "poster_path": "https://image.tmdb.org/t/p/w342/dsAJhCLYX1fiNRoiiJqR6Up4aJ.jpg"
+                    },
+                    {
+                        "id" : "90239",
+                        "title": "El Juego de las Llaves",
+                        "poster_path": "https://image.tmdb.org/t/p/w342/9NQybnf78WiXWcxPaf7cyF09bOm.jpg"
+                    },
+                    {
+                        "id" : "111141",
+                        "title": "Maid",
+                        "poster_path": "https://image.tmdb.org/t/p/w342/4brWcSXdH31BZUTtRTHj2BYFe6M.jpg"
+                    },
+                    {
+                        "id" : "1402",
+                        "title": "The Walking Dead",
+                        "poster_path": "https://image.tmdb.org/t/p/w342/w21lgYIi9GeUH5dO8l3B9ARZbCB.jpg"
+                    }
+                ]
+            },
+            "93405": {
+                "backdrop_path": "https://image.tmdb.org/t/p/original/n00M5kO1C9xBkusfe56Zvrihw6c.jpg",
+                "id": 93405,
+                "name": "Squid Game",
+                "original_language": "ko",
+                "original_name": "오징어 게임",
+                "overview": "Hundreds of cash-strapped players accept a strange invitation to compete in children's games—with high stakes. But, a tempting prize awaits the victor.",
+                "popularity": 7231.019,
+                "poster_path": "https://image.tmdb.org/t/p/original/dDlEmu3EZ0Pgg93K2SVNLCjCSvE.jpg",
+                "vote_average": 7.9
+            },
+            "81356": {
+                "backdrop_path": "https://image.tmdb.org/t/p/original/bxU79lpl8ZQAVJ72155kqWkuqMu.jpg",
+                "id": 81356,
+                "name": "Sex Education",
+                "original_language": "en",
+                "original_name": "Sex Education",
+                "overview": "Inexperienced Otis channels his sex therapist mom when he teams up with rebellious Maeve to set up an underground sex therapy clinic at school.",
+                "popularity": 1405.391,
+                "poster_path": "https://image.tmdb.org/t/p/original/8j12tohv1NBZNmpU93f47sAKBbw.jpg",
+				"vote_average": 8.2
+            },
+            "63174": {
+                "backdrop_path": "https://image.tmdb.org/t/p/original/ktDJ21QQscbMNQfPpZBsNORxdDx.jpg",
+                "id": 63174,
+                "name": "Lucifer",
+                "original_language": "en",
+                "original_name": "Lucifer",
+                "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+                "popularity": 1276.124,
+                "poster_path": "https://image.tmdb.org/t/p/original/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+                "vote_average": 8.5
+            },
+            "134983": {
+                "backdrop_path": "https://image.tmdb.org/t/p/original/lYDH4HAm8p5K9NaDYhaZO4T7y7K.jpg",
+                "id": 134983,
+                "name": "Medal of the Republic",
+                "original_language": "zh",
+                "original_name": "功勋",
+                "overview": "",
+                "popularity": 1388.402,
+                "poster_path": "https://image.tmdb.org/t/p/original/8ryjORff8eYT27T6gRFxaHzhGsU.jpg",
+                "vote_average": 4.7
+            },
+            "91363": {
+                "backdrop_path": "https://image.tmdb.org/t/p/original/4N6zEMfZ57zNEQcM8gWeERFupMv.jpg",
+                "id": 91363,
+                "name": "What If...?",
+                "original_language": "en",
+                "original_name": "What If...?",
+                "overview": "Taking inspiration from the comic books of the same name, each episode explores a pivotal moment from the Marvel Cinematic Universe and turns it on its head, leading the audience into uncharted territory.",
+                "popularity": 1089.564,
+                "poster_path": "https://image.tmdb.org/t/p/original/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
+                "vote_average": 8.5
+            },
+            "133086": {
+                "backdrop_path": "https://image.tmdb.org/t/p/original/vFMvVG4KyMGwxOi9EB9JeIkLdvj.jpg",
+                "id": 133086,
+                "name": "The Five Juanas",
+                "original_language": "es",
+                "original_name": "La venganza de las Juanas",
+                "overview": "Five women with the same birthmark set out to unravel the truth about their pasts and discover a tragic web of lies spun by a powerful politician.",
+                "popularity": 1181.078,
+                "poster_path": "https://image.tmdb.org/t/p/original/iFffOCcrtf5mSoGKd2J31d2b5yg.jpg",
+                "vote_average": 7.3
+            },
+            "1991": {
+                "backdrop_path": "https://image.tmdb.org/t/p/original/oC9SgtJTDCEpWnTBtVGoAvjl5hb.jpg",
+                "id": 1991,
+                "name": "Rachael Ray",
+                "original_language": "en",
+                "original_name": "Rachael Ray",
+                "overview": "Rachael Ray, also known as The Rachael Ray Show, is an American talk show starring Rachael Ray that debuted in syndication in the United States and Canada on September 18, 2006. It is filmed at Chelsea Television Studios in New York City. The show's 8th season premiered on September 9, 2013, and became the last Harpo show in syndication to switch to HD with a revamped studio. In January 2012, CBS Television Distribution announced a two-year renewal for the show, taking it through the 2013–14 season.",
+                "popularity": 1483.325,
+                "poster_path": "https://image.tmdb.org/t/p/original/dsAJhCLYX1fiNRoiiJqR6Up4aJ.jpg",
+                "vote_average": 5.8
+            },
+            "90239": {
+                "backdrop_path": "https://image.tmdb.org/t/p/original/b3YoKUxr9fHNLgWEplNBYCtBy8K.jpg",
+                "id": 90239,
+                "name": "El Juego de las Llaves",
+                "original_language": "es",
+                "original_name": "El Juego de las Llaves",
+                "overview": "A casual encounter between Adriana and Sergio, two former high school friends, triggers the beginning of the game of the keys where four couples generate new sexual and emotional combinations in a dangerous and lustful game.",
+                "popularity": 995.244,
+                "poster_path": "https://image.tmdb.org/t/p/original/9NQybnf78WiXWcxPaf7cyF09bOm.jpg",
+                "vote_average": 7.4
+            },
+            "111141": {
+                "backdrop_path": "https://image.tmdb.org/t/p/original/yv5oliNUwu82JT1XUbz1WSKm18E.jpg",
+                "id": 111141,
+                "name": "Maid",
+                "original_language": "en",
+                "original_name": "Maid",
+                "overview": "After fleeing an abusive relationship, a young mother finds a job cleaning houses and fights to provide a better future for her child.",
+                "popularity": 988.911,
+                "poster_path": "https://image.tmdb.org/t/p/original/4brWcSXdH31BZUTtRTHj2BYFe6M.jpg",
+                "vote_average": 7.6
+            },
+            "1402": {
+                "backdrop_path": "https://image.tmdb.org/t/p/original/wvdWb5kTQipdMDqCclC6Y3zr4j3.jpg",
+                "id": 1402,
+                "name": "The Walking Dead",
+                "original_language": "en",
+                "original_name": "The Walking Dead",
+                "overview": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+                "popularity": 1025.074,
+                "poster_path": "https://image.tmdb.org/t/p/original/w21lgYIi9GeUH5dO8l3B9ARZbCB.jpg",
+                "vote_average": 8.1
+            }
+        }
+    }
+}

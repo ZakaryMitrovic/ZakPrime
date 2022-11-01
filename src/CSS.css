@@ -1,0 +1,77 @@
+#root{
+    background-color:#0f171e;
+}
+.navigationSeries{
+    background-color:#19242e;
+}
+.navBarSeries{
+    gap: 10px;
+}
+.navSeriesLink{
+    color: white;
+}
+.Logo{
+    height: 45px;
+    margin: 10px 30px 10px 10px; 
+
+}
+.containerSeries{
+    margin-top:25px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:center;
+    gap: 10px;
+}
+.containerCards{
+    background-color: darkslategrey;
+    width: 15rem;
+    border-radius: 10px;
+    color: white;
+}
+.imgSeries{
+    border-radius: 10px;
+}
+.titreSeries{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+.imgCarousel{
+    height: 243px;
+    width: 1920px;
+    object-fit:cover;
+}
+
+
+/*Page Detail*/
+.containerDetail{
+    margin-top: 50px;
+    display:grid;
+    grid-template-columns: 600px 1100px;
+}
+.imgBackdrop{
+    height: 450px;
+    margin: 10px auto;
+    display: block;
+}
+.etoiles{
+    display: flex;
+    justify-content:center;
+    color: white;
+}
+.containerDesc{
+    grid-column:2;
+}
+.titreDetail{
+    text-align: center;
+    color: white;
+}
+.descDetail{
+    margin-top:10px;
+    color: white;
+}
+.imgDetail{
+    grid-column: 1;
+    grid-row: 1;
+    width:500px;
+}
